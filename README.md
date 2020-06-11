@@ -25,6 +25,7 @@
 
 - [Interactive (Manual)](https://www.terraform.io/docs/enterprise/install/installer.html)
 - [Automated](https://www.terraform.io/docs/enterprise/install/automating-the-installer.html)
+- [Release Notes](https://github.com/hashicorp/terraform-enterprise-release-notes)
 
 ## Sentinel (Policy / Governance)
 
