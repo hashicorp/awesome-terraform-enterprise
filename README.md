@@ -36,6 +36,7 @@
 - [Slides about using Sentinel policies](https://github.com/rberlind/sentinel-policy-sets-for-tfc/raw/master/Using-Sentinel-Policies-Across-Multiple-TFC-Orgs.pptx) - Across multiple TFC/TFE organizations.
 - [Recording](https://www.hashicorp.com/resources/testing-terraform-sentinel-policies-using-mocks) - HashiConf 2019 presentation on Testing Sentinel Policies with the Sentinel Simulator (CLI).
 - [Slides](https://github.com/rberlind/HashiConf-2019/raw/master/Testing-Terraform-Sentinel-Policies-Using-Mocks.pptx) - HashiConf 2019 presentation on Testing Sentinel Policies with the Sentinel Simulator (CLI).
+- [Terraform Foundational Policies Library](https://github.com/hashicorp/terraform-foundational-policies-library/) - A library of Sentinel policies, developed by HashiCorp, that can be consumed directly within the Terraform Cloud platform.
 
 ## Learning Resources
 
