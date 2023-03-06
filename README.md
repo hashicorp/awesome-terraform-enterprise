@@ -15,7 +15,7 @@
 
 - [Official Documentation Site](https://www.terraform.io/docs/index.html)
 - [Terraform Enterprise Network Requirements](https://www.terraform.io/docs/enterprise/before-installing/network-requirements.html)
-- [Terraform Enterprise Architecture](https://www.terraform.io/docs/enterprise/system-overview/architecture.html)
+- [Terraform Enterprise Architecture](https://developer.hashicorp.com/terraform/enterprise/system-overview)
 - [Data Security](https://www.terraform.io/docs/enterprise/system-overview/data-security.html)
 - [Migrating Terraform OSS to Enterprise](https://learn.hashicorp.com/terraform/tfc/tfc_migration)
 - [Terraform Guides](https://github.com/hashicorp/terraform-guides)
